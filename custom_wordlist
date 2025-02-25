@@ -1,1 +1,4 @@
 assets/config.js
+/laravel.log
+/logs/laravel.log
+/storage/logs/laravel.log
