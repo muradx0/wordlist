@@ -2,6 +2,12 @@
 /config.php.bak
 /wp-config.php.bk
 /wp-config.php.txt
+/.bash_history
+/web.zip
+/.gitlab-ci.yml
+/docker-compose.yml
+/.vscode/sftp.json
+/config.py
 /app/config/config.local.neon
 /app/etc/local.xml
 /.ftpconfig
