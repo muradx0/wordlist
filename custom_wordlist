@@ -5,6 +5,7 @@
 /.bash_history
 /web.zip
 /.db
+/.env
 /config/const.DB.php.bak
 /.gitlab-ci.yml
 /docker-compose.yml
