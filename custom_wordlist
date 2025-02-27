@@ -1,5 +1,10 @@
 /assets/config.js
+/config.php.bak
+/wp-config.php.bk
+/wp-config.php.txt
 /home/000~ROOT~000/
+/yahoo_site_admin/credentials/db.conf
+/configurations.xml
 /appsettings.jsont
 /laravel.log
 /logs/laravel.log
