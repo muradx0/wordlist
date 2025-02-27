@@ -4,6 +4,7 @@
 /wp-config.php.txt
 /.bash_history
 /web.zip
+/config/const.DB.php.bak
 /.gitlab-ci.yml
 /docker-compose.yml
 /.vscode/sftp.json
