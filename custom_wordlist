@@ -2,6 +2,10 @@
 /config.php.bak
 /wp-config.php.bk
 /wp-config.php.txt
+/app/config/config.local.neon
+/app/etc/local.xml
+/.ftpconfig
+/local_settings.py
 /_vti_pvt/service.pwd
 /home/000~ROOT~000/
 /yahoo_site_admin/credentials/db.conf
