@@ -6,6 +6,7 @@
 /backup.tar.gz
 /web.zip
 /.db
+/.odbc.mssql.ini
 /.env
 /config/const.DB.php.bak
 /.gitlab-ci.yml
