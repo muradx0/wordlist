@@ -1,6 +1,7 @@
 /assets/config.js
 /config.php.bak
 /wp-config.php.bk
+/_wpeprivate/config.json
 /wp-config.php.txt
 /.bash_history
 /backup.tar.gz
