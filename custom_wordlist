@@ -3,6 +3,7 @@
 /wp-config.php.bk
 /_wpeprivate/config.json
 /wp-config.php.txt
+/control
 /.bash_history
 /backup.tar.gz
 /web.zip
