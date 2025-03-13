@@ -6,6 +6,7 @@
 /emplates/processed/syslog-tcp-forward.conf
 /templates/processed/config.ini
 /control
+/humans.txt
 /.zip
 /admin/
 /api/
