@@ -9,7 +9,17 @@
 /humans.txt
 /.zip
 /admin/
+/package.json
+/.npmrc
+/Jenkinsfile
+/.vscode/
+/.idea/
+/.swp
 /api/
+/.git/objects/
+/.git/refs/
+/docker-compose.yml
+/kubernetes.yaml
 /.bak
 /.git/HEAD
 /.git/config
