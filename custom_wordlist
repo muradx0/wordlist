@@ -1,6 +1,8 @@
 /assets/config.js
 /config.php.bak
 /wp-config.php.bk
+/metrics
+/api/metrics
 /_wpeprivate/config.json
 /wp-config.php.txt
 /emplates/processed/syslog-tcp-forward.conf
