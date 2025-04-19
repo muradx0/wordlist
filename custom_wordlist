@@ -1,5 +1,6 @@
 /assets/config.js
 /config.php.bak
+/_wpeprivate/config.json
 /wp-config.php.bk
 /metrics
 /storage/logs/Laravel.log
