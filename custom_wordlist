@@ -2,6 +2,7 @@
 /config.php.bak
 /wp-config.php.bk
 /metrics
+/storage/logs/Laravel.log
 /api/metrics
 /_wpeprivate/config.json
 /wp-config.php.txt
