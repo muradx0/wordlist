@@ -3,6 +3,7 @@
 /_wpeprivate/config.json
 /wp-config.php.bk
 /metrics
+/crud.php
 /storage/logs/Laravel.log
 /api/metrics
 /_wpeprivate/config.json
